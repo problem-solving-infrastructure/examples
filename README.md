@@ -2,7 +2,8 @@
 
 ## Navigation
 
-- [ReadMe files](./readmes)
+- [ReadMe files](./readme)
+- [LCSP](./lcsp)
 
 ## Feedback
 
